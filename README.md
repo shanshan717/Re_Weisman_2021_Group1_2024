@@ -9,11 +9,11 @@ This project aims to test the computational repeatability of the results present
 ```plaintext
 .
 ├── Doc_Re_Weisman_2021_Group1_2024.Rmd.pdf
+├── Report_Re_Weisman_2021_Group1_2024.pptx
+├── Script_Re_Weisman_2021_Group1_2024.Rmd
 ├── README.md
 ├── References
 │   └── R_papaja_example.pdf
-├── Report_Re_Weisman_2021_Group1_2024.pptx
-├── Script_Re_Weisman_2021_Group1_2024.Rmd
 └── Supplementary_information
     ├── Re_Supplementary_data
     │   ├── fig03.png
@@ -25,9 +25,14 @@ This project aims to test the computational repeatability of the results present
     │   └── plot02.png
     └── Script_Re_Supplementary_data.Rmd
 
-## **Programming environment**: All analyses were conducted in R (version 4.0.0); platform: x86_64-apple-darwin17.0 (64-bit); running under: macOS Catalina 10.15.7.
+```
 
-## The analyses were built using the following packages:
+## Programming environment
+
+All analyses were conducted in R (version 4.0.0); platform: x86_64-apple-darwin17.0 (64-bit); running under: macOS Catalina 10.15.7.
+
+## The analyses were built using the following packages
+
 - tidyverse (version 1.3.0) 
 - lubridate (version 1.7.8)
 - readxl (version 1.3.1)

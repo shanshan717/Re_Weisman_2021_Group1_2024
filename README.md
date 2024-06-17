@@ -33,18 +33,26 @@ All analyses were conducted in R (version 4.0.0); platform: x86_64-apple-darwin1
 
 ## The analyses were built using the following packages
 
-- tidyverse (version 1.3.0) 
-- lubridate (version 1.7.8)
-- readxl (version 1.3.1)
-- psych (version 1.9.12.31)
-- cowplot (version 1.0.0)
+- tidyverse (version 2.0.0)
+- lubridate (version 1.9.3)
+- readxl (version 1.4.3)
+- psych (version 2.3.9)
+- cowplot (version 1.1.1)
 - reshape2 (version 1.4.4)
-- sjstats (version 0.18.0)
-- lsa (version 0.73.2)
+- sjstats (version 0.19.0)
+- lsa (version 0.73.3)
 - langcog (version 0.1.9001; available at https://github.com/langcog/langcog-package)
-- betareg (version 3.1.3)
-- lme4 (verison 1.1.23)
-- lmerTest (version 3.1.2)
+- GPArotation (version 2024.3.1)
+- dplyr (version 1.1.4)
+- tidyr (version 1.3.0)
+- ggplot2 (version 3.5.1)
+- papaja (version 0.1.2)
+- here (version 1.0.1)
+- irr (version 0.84.1)
+- kableExtra (version 1.4.0)
+- janitor (version 2.2.0)
+- knitr (version 1.45)
+
 
 ## Group Members
 
@@ -59,12 +67,12 @@ All analyses were conducted in R (version 4.0.0); platform: x86_64-apple-darwin1
   
 - **Mengyao Yang**
   - Affiliation: [1] Nanjing Normal University
-  - Contributions: Writing - Original Draft Preparation
+  - Contributions: Data analysis
   
 - **Yueyang Yu**
   - Affiliation: [1] Nanjing Normal University
-  - Contributions: PPT production
+  - Contributions: Make a PowerPoint
   
 - **Huiling Zou**
   - Affiliation: [1] Nanjing Normal University
-  - Contributions: PPT production
+  - Contributions: Summarize and organize

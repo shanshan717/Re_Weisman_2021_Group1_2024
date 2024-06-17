@@ -57,22 +57,22 @@ All analyses were conducted in R (version 4.0.0); platform: x86_64-apple-darwin1
 ## Group Members
 
 - **Shanshan Zhu**
-  - Affiliation: [1] Nanjing Normal University
+  - Affiliation: Nanjing Normal University
   - Email: zhushanshan0717@gmail.com
   - Contributions: Data analysis
   
 - **Lu Ao**
-  - Affiliation: [1] Nanjing Normal University
+  - Affiliation: Nanjing Normal University
   - Contributions: PPT presentation
   
 - **Mengyao Yang**
-  - Affiliation: [1] Nanjing Normal University
+  - Affiliation: Nanjing Normal University
   - Contributions: Data analysis
   
 - **Yueyang Yu**
-  - Affiliation: [1] Nanjing Normal University
+  - Affiliation: Nanjing Normal University
   - Contributions: Make a PowerPoint
   
 - **Huiling Zou**
-  - Affiliation: [1] Nanjing Normal University
+  - Affiliation: Nanjing Normal University
   - Contributions: Summarize and organize

@@ -12,8 +12,8 @@ Weisman, K., Legare, C. H., Smith, R. E., Dzokoto, V. A., Aulino, F., Ng, E., ..
 
 ```plaintext
 .
-├── Doc_Re_Weisman_2021_Group1_2024.Rmd.pdf
-├── Report_Re_Weisman_2021_Group1_2024.pptx
+├── Doc_Re_Weisman_2021_Group1_2024.pdf
+├── Report_Re_Weisman_2021_Group1_2024.pdf
 ├── Script_Re_Weisman_2021_Group1_2024.Rmd
 ├── References
 │   └── R_papaja_example.pdf
@@ -41,7 +41,7 @@ Weisman, K., Legare, C. H., Smith, R. E., Dzokoto, V. A., Aulino, F., Ng, E., ..
 ```
 
 - **Doc_Re_Weisman_2021_Group1_2024.pdf**: Document on repeatability for our group.
-- **Report_Re_Weisman_2021_Group1_2024.pptx**: Presentation slides for the repeatability project of our group.
+- **Report_Re_Weisman_2021_Group1_2024.pdf**: Presentation slides for the repeatability project of our group.
 - **Script_Re_Weisman_2021_Group1_2024.Rmd**: Replication code for the main analysis and related code using R with the papaja package for repeatability document preparation.
 - **Supplementary_information**: Includes analysis code, generated result images, and other information related to the main replication content in the paper's attachments, such as the .bib file for references.
 - **Script_Re_Weisman_2021_Group1_2024_files**: Contains result figures generated from the Script_Re_Weisman_2021_Group1_2024.Rmd code and external images (see Repeatability_figures).

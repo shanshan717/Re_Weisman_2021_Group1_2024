@@ -23,7 +23,7 @@ This project aims to test the computational repeatability of the results present
     ├── Group_1-r-references.bib
     ├── Script_Re_Weisman_2021_Group1_2024.tex
 ├── Script_Re_Weisman_2021_Group1_2024_files
-    ├── figure_latex
+    ├── Figure_latex
     │   ├── alt fig 3-1.pdf
     │   ├── ...
     │   ├── unnamed-chunk-20-1.png

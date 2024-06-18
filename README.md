@@ -13,23 +13,37 @@ This project aims to test the computational repeatability of the results present
 ├── Script_Re_Weisman_2021_Group1_2024.Rmd
 ├── README.md
 ├── References
-│   └── R_papaja_example.pdf
-└── Supplementary_information
+│   ├── R_papaja_example.pdf
+├── Supplementary_information
     ├── Re_Supplementary_data
-    │   ├── fig03.png
-    │   ├── fig04_v2.png
-    │   ├── fig04_v3.png
-    │   ├── fig04.png
-    │   ├── figS01_oblique.png
+    │   ├── fig_d_phi.png
     │   ├── ...
-    │   └── plot02.png
-    └── Script_Re_Supplementary_data.Rmd
+    │   ├── plot02.png
+    ├── Script_Re_Weisman_2021_Group1_2024.ttt
+    ├── Group_1-r-references.bib
+    ├── Script_Re_Weisman_2021_Group1_2024.tex
+├── Script_Re_Weisman_2021_Group1_2024_files
+    ├── figure_latex
+    │   ├── alt fig 3-1.pdf
+    │   ├── ...
+    │   ├── unnamed-chunk-20-1.png
+    ├── Repeatability_figures
+    │   ├── table1.png
+    │   ├── ...  
+    │   └── table18.png   
 
 ```
 
+- **Doc_Re_Weisman_2021_Group1_2024.pdf**: Document on repeatability for our group.
+- **Report_Re_Weisman_2021_Group1_2024.pptx**: Presentation slides for the repeatability project of our group.
+- **Script_Re_Weisman_2021_Group1_2024.Rmd**: Replication code for the main analysis and related code using R with the papaja package for repeatability document preparation.
+- **Supplementary_information**: Includes analysis code, generated result images, and other information related to the main replication content in the paper's attachments, such as the .bib file for references.
+- **Script_Re_Weisman_2021_Group1_2024_files**: Contains result figures generated from the Script_Re_Weisman_2021_Group1_2024.Rmd code and external images (see Repeatability_figures).
+- **References**: Materials for learning and references related to the replication of R code.
+
 ## Programming environment
 
-All analyses were conducted in R (version 4.0.0); platform: x86_64-apple-darwin17.0 (64-bit); running under: macOS Catalina 10.15.7.
+All analyses were conducted in R (version 4.3.1); platform: arm64-apple-darwin; running under: macOS Sonoma 14.5.
 
 ## The analyses were built using the following packages
 
@@ -52,7 +66,6 @@ All analyses were conducted in R (version 4.0.0); platform: x86_64-apple-darwin1
 - kableExtra (version 1.4.0)
 - janitor (version 2.2.0)
 - knitr (version 1.45)
-
 
 ## Group Members
 

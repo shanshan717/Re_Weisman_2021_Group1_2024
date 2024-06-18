@@ -3,7 +3,11 @@
 ## Project Overview
 
 This project aims to test the computational repeatability of the results presented in the study by Kara Weisman (2021). The purpose is to ensure that the findings can be reproduced using the provided data and code, adhering to best practices in research transparency and reliability.
-      
+
+We adopted the code from: <https://github.com/kgweisman/mental-life-culture-development>.
+
+Weisman, K., Legare, C. H., Smith, R. E., Dzokoto, V. A., Aulino, F., Ng, E., ... & Luhrmann, T. M. (2021). Similarities and differences in concepts of mental life among adults and children in five cultures. *Nature Human Behaviour*, *5*(10), 1358-1368. (APA)
+
 ## Structure of the Repository
 
 ```plaintext

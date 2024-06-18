@@ -13,25 +13,25 @@ This project aims to test the computational repeatability of the results present
 ├── Script_Re_Weisman_2021_Group1_2024.Rmd
 ├── README.md
 ├── References
-│   ├── R_papaja_example.pdf
-├── Supplementary_information
-    ├── Re_Supplementary_data
-    │   ├── fig_d_phi.png
-    │   ├── ...
-    │   ├── plot02.png
+│   └── R_papaja_example.pdf
+└── Supplementary_information
+    └── Re_Supplementary_data
+        ├── fig_d_phi.png
+        ├── ...
+        ├── plot02.png
     ├── Script_Re_Weisman_2021_Group1_2024.ttt
     ├── Group_1-r-references.bib
-    ├── Script_Re_Weisman_2021_Group1_2024.tex
-├── Script_Re_Weisman_2021_Group1_2024_files
-    ├── Figure_latex
-    │   ├── alt fig 3-1.pdf
-    │   ├── ...
-    │   ├── unnamed-chunk-20-1.png
-    ├── Repeatability_figures
-    │   ├── table1.png
-    │   ├── ...  
-    │   └── table18.png   
-
+    └── Script_Re_Weisman_2021_Group1_2024.tex
+└── Script_Re_Weisman_2021_Group1_2024_files
+    └── Figure_latex
+        ├── alt fig 3-1.pdf
+        ├── ...
+        ├── unnamed-chunk-20-1.png
+    └── Repeatability_figures
+        ├── table1.png
+        ├── ...  
+        └── table18.png
+        
 ```
 
 - **Doc_Re_Weisman_2021_Group1_2024.pdf**: Document on repeatability for our group.
